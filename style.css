@@ -1,0 +1,15 @@
+.box{
+    width: 200px;
+}
+div{
+    width: fit-content;
+    padding: 15px;
+    border: 1px solid white;
+    
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
